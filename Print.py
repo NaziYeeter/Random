@@ -1,0 +1,2 @@
+while True:
+  print('TOO BAD YOU DONT HAVE PERMISSION TO USE THE SCRIPT',col[2])
